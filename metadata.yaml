@@ -1,0 +1,26 @@
+_repo: Geschiedenis-der-Nederlandsche-letterkunde-Deel-I_23812
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kalff, Gerrit
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '26045'
+    url: http://www.gutenberg.org/2009/agents/26045
+description: ''
+gutenberg_issued: '2007-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23812'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch literature -- 1500-1800 -- History and criticism'
+title: Geschiedenis der Nederlandsche letterkunde, Deel I
+url: http://www.gutenberg.org/ebooks/23812
